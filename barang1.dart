@@ -1,7 +1,7 @@
 import 'dart:io';
 class Barang{ // class yang bernama Barang
   int? id; // atribut id menggunakan tanda tanya yang berarti variabel id dapat memiliki nilai null atau kosong
-  String? nam
+  String? nama;
   int? stok;
   int? harga;
   int? total_harga;
